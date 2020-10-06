@@ -2,7 +2,7 @@
 
 Open the project in a familiar IDE (VSCode)
 
-Execute one of the command in the terminal and Start the web server using the following command from your working directory.
+Execute one of the following command in the terminal and start the web server.
 The commands differ according to the version of python.
 
 1) Command for Python 3.x - python -m http.server 8000  
