@@ -5,8 +5,8 @@ Open the project in a familiar IDE (VSCode)
 Execute one of the command in the terminal and Start the web server using the following command from your working directory.
 The commands differ according to the version of python.
 
-1) Command for Python 3.x - python -m http.server 8000  
-2) Command for Python 2.x - python -m SimpleHTTPServer 8000
+1) Command for Python 2.x - python -m SimpleHTTPServer 8000
+2) Command for Python 3.x - python -m http.server 8000  
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/38991771/95214863-f4d30800-080d-11eb-9be0-59d5ff32200b.png)
 
