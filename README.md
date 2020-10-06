@@ -2,11 +2,11 @@
 
 Open the project in a familiar IDE (VSCode)
 
-Execute one of the  command in the terminal and Start the web server using the following command from your working directory.
+Execute one of the command in the terminal and Start the web server using the following command from your working directory.
 The commands differ according to the version of python.
 
-1) python -m http.server 8000  (Python 3.x).
-2) python -m SimpleHTTPServer 8000 (Python 2.x).
+1) Command for Python 3.x - python -m http.server 8000  
+2) Command for Python 2.x - python -m SimpleHTTPServer 8000
 
 Load the URL http://localhost:8000 into your browser.
 The first time you run the project, it prompts you to authorize access.
